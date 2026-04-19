@@ -1,5 +1,5 @@
-//ÇóÔ²ÖùÌå»ı//
-#include <stdio.h>
+	v=PI*r*r*h;
+	printf("v=%.3f\n",v);
 #define PI 3.1415926
 
 int main(void)
